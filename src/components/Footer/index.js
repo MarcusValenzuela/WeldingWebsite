@@ -1,13 +1,5 @@
 import React from "react";
-import {
-  FooterContainer,
-  FooterLink,
-  FooterLinkItems,
-  FooterLinksContainer,
-  FooterLinksWrapper,
-  FooterLinkTitle,
-  FooterWrap,
-} from "./FooterElements";
+import { FooterContainer, FooterLink, FooterLinkItems, FooterLinksContainer, FooterLinksWrapper, FooterLinkTitle, FooterWrap } from "./FooterElements";
 
 const Footer = () => {
   return (
@@ -16,16 +8,16 @@ const Footer = () => {
         <FooterLinksContainer>
           <FooterLinksWrapper>
             <FooterLinkItems>
-              <FooterLinkTitle>Social Media </FooterLinkTitle>
+              <FooterLinkTitle> Contact Me</FooterLinkTitle>
 
-              <FooterLink to="/signin">E-mail</FooterLink>
-              <FooterLink to="/signin">Phone: xxx-xxx-xxxx</FooterLink>
-              <FooterLink to="/signin">Instagram</FooterLink>
-              <FooterLink to="/signin">Twitter</FooterLink>
-              <FooterLink to="/signin">LinkedIn</FooterLink>
+              <FooterLink to="/">Email: xxxxxxxx@yahoo.com</FooterLink>
+              <FooterLink to="/">Phone: xxx-xxx-xxxx</FooterLink>
+              
+
             </FooterLinkItems>
           </FooterLinksWrapper>
         </FooterLinksContainer>
+        
       </FooterWrap>
     </FooterContainer>
   );
