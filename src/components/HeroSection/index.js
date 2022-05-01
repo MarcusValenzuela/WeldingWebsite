@@ -16,7 +16,7 @@ const HeroSection = () => {
         <VideoBg autoPlay loop muted src={Video} type="video/mp4" />
       </HeroBg>
       <HeroContent>
-        <HeroH1>Matt Hall Welding and Fabrication LLC</HeroH1>
+        <HeroH1>Matt Hall's Welding and Fabrication LLC</HeroH1>
         <HeroP>Contact me today for a free consultation</HeroP>
         <HeroBtnWrapper>
           <Button to="contact" onMouseEnter={onHover} onMouseLeave={onHover} primary="true" dark="true">

@@ -25,8 +25,8 @@ const Footer = () => {
             <FooterLinkItems>
               <FooterLinkTitle> Contact Me</FooterLinkTitle>
 
-              <FooterLink to="/">Email: xxxxxxxx@yahoo.com</FooterLink>
-              <FooterLink to="/">Phone: xxx-xxx-xxxx</FooterLink>
+              <FooterLink to="/">Email: mhall1011@yahoo.com</FooterLink>
+              <FooterLink to="/">Phone: 919-827-3536</FooterLink>
             </FooterLinkItems>
           </FooterLinksWrapper>
         </FooterLinksContainer>

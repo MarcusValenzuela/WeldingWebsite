@@ -3,7 +3,7 @@ export const homeObjOne = {
   lightBg: false,
   lightText: true,
   lightTextDesc: true,
-  topLine: "Precision Welding Services",
+  topLine: "Piedmont LLC",
   headline: "Our Precision Welding Services checks all the boxes.",
   description:
     "Guided by a powerful belief in teamwork and out-of-the-box thinking, Piedmont LLC constantly strives to provide customers with the highest quality and best possible service. It’s worked for us for over 25 years. We’d love to see it work for you.",
@@ -22,7 +22,7 @@ export const homeObjTwo = {
     lightText: false,
     lightTextDesc: false,
     topLine: "Exceptional Service",
-    headline: "Best value you will find. Guaranteed. Look no further",
+    headline: "Best value you will find. Guaranteed. Look no further.",
     description:
       "When you work with us at Piedmont LLC, we consider you our partner in innovation. Whether production requires laser welding, seamless supply chain management, or our full-service machine shop, our specialists will develop and execute a customized solution to guarantee a successful project.",
     buttonLabel: "Get Started",
@@ -42,7 +42,7 @@ export const homeObjTwo = {
     topLine: "Get a quote today",
     headline: "Quality backed by experience, accreditations, and reviews.",
     description:
-      "To get a quote, please submit an inquiry using our contact form. Our sales team will be in touch to get a quote over to you as soon as possible.",
+      "To get a quote, email me at mhall1011@yahoo.com or call me at 919-827-3536.",
     buttonLabel: "Get Started",
     imgStart: true,
     img: require("../../images/image111.png"),
