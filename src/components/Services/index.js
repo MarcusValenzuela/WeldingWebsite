@@ -8,22 +8,22 @@ const Services = () => {
   return (
     <>
       <ServicesContainer id="services">
-        <ServicesH1>Our Services</ServicesH1>
+        <ServicesH1>Services</ServicesH1>
         <ServicesWrapper>
           <ServicesCard>
             <ServicesIcon src={Icon1} />
-            <ServicesH2>Reduce Expenses</ServicesH2>
-            <ServicesP>We help with alot of shit</ServicesP>
+            <ServicesH2>GTAW Tig Welding</ServicesH2>
+            <ServicesP></ServicesP>
           </ServicesCard>
           <ServicesCard>
             <ServicesIcon src={Icon2} />
-            <ServicesH2>Reduce Expenses</ServicesH2>
-            <ServicesP>We help with alot of shit</ServicesP>
+            <ServicesH2>SMAW Stick Welding</ServicesH2>
+            <ServicesP></ServicesP>
           </ServicesCard>
           <ServicesCard>
             <ServicesIcon src={Icon3} />
-            <ServicesH2>Reduce Expenses</ServicesH2>
-            <ServicesP>We help with alot of shit</ServicesP>
+            <ServicesH2>Mig Welding</ServicesH2>
+            <ServicesP></ServicesP>
           </ServicesCard>
         </ServicesWrapper>
       </ServicesContainer>
