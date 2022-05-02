@@ -32,19 +32,19 @@ const Footer = () => {
         </FooterLinksContainer>
         <SocialMedia>
           <SocialMediaWrap>
-            <SocialLogo to="/">Matt Hall</SocialLogo>
+            <SocialLogo to="/"></SocialLogo>
             <WebsiteRights>Piedmont LLC © 2022 All rights reserved</WebsiteRights>
             <SocialIcons>
-              <SocialIconLink href="//www.facebook.com" target="_blank" aria-label="Facebook">
+              <SocialIconLink href="//facebook.com/PiedmontWeldingandFabrication" target="_blank" aria-label="Facebook">
                 <FaFacebook />
               </SocialIconLink>
-              <SocialIconLink href="//instagram.com" target="_blank" aria-label="Instagram">
+              <SocialIconLink href="//instagram.com/piedmontwelding" target="_blank" aria-label="Instagram">
                 <FaInstagram />
               </SocialIconLink>
               <SocialIconLink href="//www.twitter.com" target="_blank" aria-label="Twitter">
                 <FaTwitter />
               </SocialIconLink>
-              <SocialIconLink href="//www.linkedin.com" target="_blank" aria-label="LinkedIn">
+              <SocialIconLink href="//www.linkedin.com/in/matt-hall-b05486239/" target="_blank" aria-label="LinkedIn">
                 <FaLinkedin />
               </SocialIconLink>
             </SocialIcons>

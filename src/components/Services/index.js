@@ -11,12 +11,12 @@ const Services = () => {
         <ServicesH1>Services</ServicesH1>
         <ServicesWrapper>
           <ServicesCard>
-            <ServicesIcon src={Icon1} />
+            <ServicesIcon src={Icon2} />
             <ServicesH2>GTAW Tig Welding</ServicesH2>
             <ServicesP></ServicesP>
           </ServicesCard>
           <ServicesCard>
-            <ServicesIcon src={Icon2} />
+            <ServicesIcon src={Icon1} />
             <ServicesH2>SMAW Stick Welding</ServicesH2>
             <ServicesP></ServicesP>
           </ServicesCard>
